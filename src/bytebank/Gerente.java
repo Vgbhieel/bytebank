@@ -20,4 +20,4 @@ public class Gerente extends Funcionario {
 		return (super.getBonificacao() + super.getSalario());
 	}
 	
-}
+} 
